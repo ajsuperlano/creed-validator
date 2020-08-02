@@ -1,4 +1,4 @@
-# creed-build
+# creed-validator
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -9,7 +9,7 @@
 
 
 
-Contructor de html, inputs y tag mediante simples clases de php.
+Contructor de validaciones mediante simples clases de php.
 Uso de PSR4,
 
 
@@ -28,7 +28,7 @@ tests/
 Via Composer
 
 ``` bash
-$ composer require creed/creed-build
+$ composer require creed/creed-validator
 ```
 
 <!-- ## Usage

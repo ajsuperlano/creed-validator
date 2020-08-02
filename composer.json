@@ -3,11 +3,11 @@
     "type": "library",
     "description": "Validacion php.",
     "keywords": [
-        "AppCreed",
+        "creed",
         "Creed-validator",
         "validator"
     ],
-    "homepage": "https://github.com/AppCreed/Creed-validator.git",
+    "homepage": "https://github.com/ajsuperlano/Creed-validator.git",
     "license": "MIT",
     "authors": [
         {
