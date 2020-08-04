@@ -1,10 +1,10 @@
 {
-    "name": "creed/Creed-validator",
+    "name": "creed/creed-validator",
     "type": "library",
     "description": "Validacion php.",
     "keywords": [
         "creed",
-        "Creed-validator",
+        "creed-validator",
         "validator"
     ],
     "homepage": "https://github.com/ajsuperlano/Creed-validator.git",
@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "php" : "~5.6|~7.0"
+        "php" : "~5.6|~7.3"
     },
     "autoload": {
         "psr-4": {
