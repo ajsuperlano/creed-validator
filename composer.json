@@ -1,5 +1,5 @@
 {
-    "name": "creed/Creed-validator",
+    "name": "creed/creed-validator",
     "type": "library",
     "description": "Validacion php.",
     "keywords": [
